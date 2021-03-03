@@ -7,9 +7,11 @@ Cerințe:<br>
 • introducerea a două tipuri de utilizatori: magazin și client<br>
 • cerințe specifice magazinului:<br>
   o adăugarea de produse<br>
+  >>
 o editarea de produse<br>
 o ștergerea de produse<br>
 o prelucrarea comenzilor<br>
+<<
 o realizarea unui raport (într-un fișier text) cu privire la comenzile primite<br>
 • cerințe specifice clientului:<br>
 o vizualizarea produselor din magazin<br>
