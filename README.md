@@ -1,9 +1,9 @@
 # Magazin electronic
 
 
-Să se realizeze o aplicație de tip consolă în C++ care să utilizeze principiile POO pentru
-realizarea funcționalităților unui magazin electronic.<br>
-Cerințe:<br>
+**Să se realizeze o aplicație de tip consolă în C++ care să utilizeze principiile POO pentru
+realizarea funcționalităților unui magazin electronic.**<br><br>
+**Cerințe:**<br>
 - introducerea a două tipuri de utilizatori: magazin și client<br>
 - cerințe specifice magazinului:<br>
    - adăugarea de produse<br>
@@ -22,8 +22,8 @@ clientului (de ex. nume, adresa, etc.)<br>
 - toate funcționalitățile vor fi puse la dispoziție prin intermediul unei interfețe de tip
 meniu realizat în consolă<br>
 - la deschiderea aplicației se va interoga tipul de utilizator cu care se intră și în funcție
-de utilizatorul ales (magazin sau client) se va pune la dispoziție meniul specific<br>
-Cerințe tehnice:<br>
+de utilizatorul ales (magazin sau client) se va pune la dispoziție meniul specific<br><br>
+**Cerințe tehnice:**<br><br>
 - să se realizeze cel puțin 5 clase<br>
 - să se realizeze cel puțin o ierarhie de clase care să implementeze principiile moștenirii (cel
 puțin 3 clase utilizate în această ierarhie pentru a se evidenția beneficiile moștenirii)<br>
