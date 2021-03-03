@@ -1,8 +1,8 @@
-# Magazin-electronic
+# Magazin electronic
 
-Magazin electronic
+
 Să se realizeze o aplicație de tip consolă în C++ care să utilizeze principiile POO pentru
-realizarea funcționalităților unui magazin electronic.
+realizarea funcționalităților unui magazin electronic.<br>
 Cerințe:
 • introducerea a două tipuri de utilizatori: magazin și client
 • cerințe specifice magazinului:
