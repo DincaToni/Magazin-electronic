@@ -4,9 +4,9 @@
 Să se realizeze o aplicație de tip consolă în C++ care să utilizeze principiile POO pentru
 realizarea funcționalităților unui magazin electronic.<br>
 Cerințe:<br>
-• introducerea a două tipuri de utilizatori: magazin și client<br>
-• cerințe specifice magazinului:<br>
-- o adăugarea de produse<br>
+- introducerea a două tipuri de utilizatori: magazin și client<br>
+- cerințe specifice magazinului:<br>
+   -adăugarea de produse<br>
 o editarea de produse<br>
 o ștergerea de produse<br>
 o prelucrarea comenzilor<br>
