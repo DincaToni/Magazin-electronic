@@ -6,11 +6,10 @@ realizarea funcționalităților unui magazin electronic.<br>
 Cerințe:<br>
 • introducerea a două tipuri de utilizatori: magazin și client<br>
 • cerințe specifice magazinului:<br>
->>o adăugarea de produse<br>
+-o adăugarea de produse<br>
 o editarea de produse<br>
 o ștergerea de produse<br>
 o prelucrarea comenzilor<br>
-<<
 o realizarea unui raport (într-un fișier text) cu privire la comenzile primite<br>
 • cerințe specifice clientului:<br>
 o vizualizarea produselor din magazin<br>
@@ -36,7 +35,7 @@ prin getteri și setteri (metode accesor)<br>
 facă validarea parametrilor. Să se realizeze destructorul, constructorul de copiere și
 supraîncărcarea operatorului egal pentru aceste clase.<br>
 • să se facă în proiect cel puțin 3 supraîncărcări de operatori (diferiți de operatorul =, << și
->>)<br>
+'>>')<br>
 • să se stocheze persistent în fișiere binare produsele existente în magazin și comenzile
 trimise de clienți<br>
 • rapoartele menționate în cerințele de funcționalitate ale aplicației vor fi salvate în fișiere
